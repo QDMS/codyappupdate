@@ -1,14 +1,15 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/tismstudios/flutter
-FLUTTER_APPLICATION_PATH=/Users/tismstudios/Desktop/thecodyapp
+FLUTTER_ROOT=/Users/qujuanmiller/flutter
+FLUTTER_APPLICATION_PATH=/Users/qujuanmiller/Desktop/thecodyapp
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=lib/main.dart
+FLUTTER_TARGET=/Users/qujuanmiller/Desktop/thecodyapp/lib/main.dart
 FLUTTER_BUILD_DIR=build
-FLUTTER_BUILD_NAME=1.0.2
-FLUTTER_BUILD_NUMBER=3
+FLUTTER_BUILD_NAME=1.0.3
+FLUTTER_BUILD_NUMBER=4
 EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
 EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9jZGJlZGE3ODhhMjkzZmEyOTY2NWRjM2ZhM2Q2ZTYzYmQyMjFjYjBkLw==
 DART_OBFUSCATION=false
-TRACK_WIDGET_CREATION=false
-TREE_SHAKE_ICONS=true
-PACKAGE_CONFIG=/Users/tismstudios/Desktop/thecodyapp/.dart_tool/package_config.json
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/qujuanmiller/Desktop/thecodyapp/.dart_tool/package_config.json
